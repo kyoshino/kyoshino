@@ -10,4 +10,4 @@ When it comes to web dev tech stacks, I’m mainly experienced in React, Angular
 
 You can also find some of my previous open source contributions to Mozilla [here](https://twitter.com/BugzillaUX), [here](https://github.com/mozilla-bteam/bmo/pulls?q=author:kyoshino) and [here](https://github.com/mozilla/bedrock/pulls?q=author:kyoshino). 🦊
 
-If you’re launching a startup or running a small business, this kind of talent (full-stack web developer + UX/UI designer + marketer + more) is sure to be helpful. Reach out to me via [email](mailto:kohei@britegrid.io) or [LinkedIn](https://www.linkedin.com/in/koheiyoshino/) today! 👋
+If you’re launching a startup or running a small business, this kind of one-stop talent (full-stack web developer + UX/UI designer + marketer + more) is sure to be helpful. Reach out to me via [email](mailto:kohei@britegrid.io) or [LinkedIn](https://www.linkedin.com/in/koheiyoshino/) today! 👋
