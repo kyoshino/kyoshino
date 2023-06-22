@@ -2,7 +2,7 @@
 
 Hi there! I’m Kohei, a **hyper-multitasking UX engineer** based in Toronto, Canada, who’s been surviving at the intersection of business, design and technology for 15+ years. I love getting my hands dirty to solve real-world problems, make things uncomplicated, and help people be more productive. 💪
 
-My work includes but not limited to comprehensive UX analysis, information architecture, copywriting, prototyping, microinteractions, UI design, web design, front-end development, back-end development, code refactoring, technical support, developer relations, press/marketing material development, social media management, SEO/SEM and English-Japanese translation. 🔥
+My work includes but not limited to competitor analysis, UX/UI audit, information architecture, copywriting, prototyping, microinteractions, UI design, web design, front-end development, back-end development, code refactoring, technical support, developer relations, press/marketing material development, social media management, SEO/SEM and English-Japanese translation. 🔥
 
 A little puzzled? Imagine a [ninja](https://en.wikipedia.org/wiki/Ninja) equipped with miscellaneous skills just slipped into the present. Well, I’m not an assassin or industrial spy, but I instead have a rare [countertenor](https://en.wikipedia.org/wiki/Countertenor) vocal range. Very puzzled? Don’t worry, I’m also puzzled. 🥷
 
