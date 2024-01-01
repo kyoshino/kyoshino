@@ -12,4 +12,4 @@ You can also find some of my previous open source contributions to Mozilla [here
 
 ## Now available for hire!
 
-If you’re launching a startup or running a small business, this kind of one-stop talent (full-stack web developer + UX/UI designer + marketer + more) is sure to be helpful. Feel free to reach out to me via [email](mailto:kohei@britegrid.io) or [LinkedIn](https://www.linkedin.com/in/koheiyoshino/) today! 👋
+I’m a freelancer with clients in Canada, USA, Australia, Japan and Germany. If you’re launching a startup or running a small business, this kind of one-stop top talent (full-stack web developer + UX/UI designer + marketer + more) is sure to be helpful. Feel free to reach out to me via [email](mailto:kohei@britegrid.io) or [LinkedIn](https://www.linkedin.com/in/koheiyoshino/) today! 👋
