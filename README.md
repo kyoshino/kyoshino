@@ -11,6 +11,4 @@ When it comes to web dev tech stacks, I’m mainly experienced in React, Angular
 
 You can also find my previous public projects, [BzDeck](https://github.com/bzdeck), [Bugzilla UX](https://twitter.com/BugzillaUX) and [Firefox Site Compatibility](https://github.com/fxsitecompat), as well as open source contributions to Mozilla [here](https://github.com/mozilla/bedrock/pulls?q=author:kyoshino) and [there](https://github.com/mozilla-bteam/bmo/pulls?q=author:kyoshino). 🦊
 
-## Now available for hire!
-
-That’s right. I’m a freelancer with clients in Canada, USA, Australia, Japan and Germany. If you’re launching a startup or running a small business, this kind of one-stop top talent (full-stack web developer + UX/UI designer + marketer + more) is sure to be helpful. Feel free to reach out to me via [email](mailto:kohei@britegrid.io) or [LinkedIn](https://www.linkedin.com/in/koheiyoshino/) today! 👋
+I’m a freelancer with clients in Canada, USA, Australia, Japan and Germany. If you’re launching a startup or running a small business, this kind of one-stop top talent (full-stack web developer + UX/UI designer + marketer + more) is sure to be helpful. Feel free to reach out to me via [email](mailto:kohei@britegrid.io) or [LinkedIn](https://www.linkedin.com/in/koheiyoshino/) today! 👋
