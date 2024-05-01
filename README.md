@@ -8,7 +8,7 @@ A little puzzled? Imagine a [ninja](https://en.wikipedia.org/wiki/Ninja) equippe
 
 When it comes to web dev tech stacks, I’m mainly experienced in React, AngularJS, Node.js, Perl, Python and PHP, but most of my projects these days are done with **Svelte**/**SvelteKit** because it saves a lot of time by simplifying the code. Check out my current public project, [Sveltia CMS](https://github.com/sveltia/sveltia-cms), which has quickly gained traction since its initial release. 🌟
 
-You can also find my previous public projects, [BzDeck](https://github.com/bzdeck), [Bugzilla UX](https://twitter.com/BugzillaUX) and [Firefox Site Compatibility](https://github.com/fxsitecompat), as well as open source contributions to Mozilla [here](https://github.com/mozilla/bedrock/pulls?q=author:kyoshino) and [there](https://github.com/mozilla-bteam/bmo/pulls?q=author:kyoshino). 🦊
+You can also find my previous public projects, [BzDeck](https://github.com/bzdeck/bzdeck/wiki), [Bugzilla UX](https://twitter.com/BugzillaUX) and [Firefox Site Compatibility](https://github.com/fxsitecompat), as well as open source contributions to Mozilla [here](https://github.com/mozilla/bedrock/pulls?q=author:kyoshino) and [there](https://github.com/mozilla-bteam/bmo/pulls?q=author:kyoshino). 🦊
 
 ## Now available for hire!
 
