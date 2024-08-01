@@ -1,6 +1,6 @@
 # Here comes the Unicorn (or Unicode) 🦄
 
-Hi there! I’m Kohei (pronounced co-hey), a **multitalented UX engineer** based in Toronto, Canada, who’s been surviving at the intersection of business, design and technology for 20+ years. I love getting my hands dirty to solve real-world problems, make things uncomplicated & modernized, and help people be more productive. 🌟
+Hi there! I’m Kohei (pronounced co-hey), a **multitalented UX engineer** based in Toronto, Canada, who’s been surviving at the intersection of business, design and technology for 15+ years. I love getting my hands dirty to solve real-world problems, make things uncomplicated & modernized, and help people be more productive. 🌟
 
 My work includes but not limited to competitive analysis, user interviews, surveys, A/B testing, UX/UI audit, information architecture, copywriting, prototyping, microinteractions, UX/UI design, product design, flyer/poster design, web design, frontend/backend web development, browser extension development, code refactoring, API design, DevOps, business development, partner relations, developer relations, marketing material design/development, press release writing/proofreading, technical and non-technical writing, ghostwriting, creative control, speaking engagements, magazine contributions, social media management, SEO, SEM, customer support and English-Japanese translation. 🔥
 
