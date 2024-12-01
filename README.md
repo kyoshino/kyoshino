@@ -4,7 +4,7 @@ Hi there! I’m Kohei (pronounced co-hey), an **experienced, multitalented UX en
 
 My work includes but not limited to competitive analysis, user interviews, surveys, A/B testing, UX/UI audit, information architecture, copywriting, prototyping, microinteractions, UX/UI design, product design, flyer/poster design, web design, frontend/backend web development, browser extension development, code refactoring, API design, DevOps, business development, partner relations, developer relations, marketing material design/development, press release writing/proofreading, technical and non-technical writing, ghostwriting, creative control, speaking engagements, magazine contributions, social media management, SEO, SEM, customer support and English-Japanese translation. 🔥
 
-In a bit simpler words: As a designer and writer, I always use [curly quotes instead of straight quotes](https://typographyforlawyers.com/straight-and-curly-quotes.html). As a developer, I heavily use [backticks](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals). 💬
+In a bit twisted words: As a designer and writer, I always use [curly quotes](https://typographyforlawyers.com/straight-and-curly-quotes.html) instead of straight quotes. As a developer, I heavily use [backticks](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals). 💬
 
 A little puzzled? Imagine a [ninja](https://en.wikipedia.org/wiki/Ninja) equipped with miscellaneous skills just slipped into the present. Well, you can just call me a **hyper-generalist**. 🥷
 
