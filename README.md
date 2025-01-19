@@ -4,8 +4,6 @@ Hi there! I’m Kohei (pronounced co-hey), an **experienced, multitalented UX en
 
 My work includes but not limited to competitive analysis, user interviews, surveys, A/B testing, UX/UI audit, information architecture, copywriting, prototyping, microinteractions, UX/UI design, product design, flyer/poster design, web design, frontend/backend web development, browser extension development, code refactoring, API design, DevOps, business development, partner relations, developer relations, marketing material design/development, press release writing/proofreading, technical and non-technical writing, ghostwriting, creative control, speaking engagements, magazine contributions, social media management, SEO, SEM, customer support and English-Japanese translation. 🔥
 
-In a bit twisted words: As a designer and writer, I always use [curly quotes](https://typographyforlawyers.com/straight-and-curly-quotes.html) instead of straight quotes. As a developer, I heavily use [backticks](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals). 💬
-
 A little puzzled? Imagine a [ninja](https://en.wikipedia.org/wiki/Ninja) equipped with miscellaneous skills just slipped into the present. Well, you can just call me a **hyper-generalist**. 🥷
 
 When it comes to web development tech stack, I’m mainly experienced in React, AngularJS, Node.js, Perl, Python and PHP, but most of my projects these days are done with **Svelte**/**SvelteKit** because it saves a lot of time by simplifying the code. Have a look at my current public project, [Sveltia CMS](https://github.com/sveltia/sveltia-cms), which has gained traction quickly since its initial release. It’s a perfect showcase for my problem-solving superpower and the force of UX engineering. 💪
@@ -17,3 +15,11 @@ You can also find my previous projects, [BzDeck](https://github.com/bzdeck/bzdec
 ## Now available for hire!
 
 I’m currently freelancing with clients in Canada, US, Australia, Japan and Germany. If you’re launching a startup or running a small business, this kind of one-stop top talent (full-stack web developer + UX/UI designer + marketer + more) is sure to be helpful. Feel free to reach out to me via [email](mailto:kohei@britegrid.io) or [LinkedIn](https://www.linkedin.com/in/koheiyoshino/) today! 👋
+
+## Fun facts about me
+
+Generalists are rare, but I’m also genetically rare:
+
+- I was a boy soprano.
+- I can still sing in a female voice because my voice never broke. If I were a singer, I’d be called a [countertenor](https://en.wikipedia.org/wiki/Countertenor).
+- I look half my age.
