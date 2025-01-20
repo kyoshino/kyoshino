@@ -21,5 +21,5 @@ I’m currently freelancing with clients in Canada, US, Australia, Japan and Ger
 Generalists are rare, but I’m also genetically rare:
 
 - I was a boy soprano.
-- I can still sing in a female voice because my voice never broke. If I were a singer, I’d be called a [countertenor](https://en.wikipedia.org/wiki/Countertenor).
-- I look half my age.
+- My voice didn’t break, so I can still sing in a female voice. If I were a singer, I’d be called a [countertenor](https://en.wikipedia.org/wiki/Countertenor).
+- I look half my age. I’m obviously not a student 🤣
