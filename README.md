@@ -23,3 +23,4 @@ Generalists are rare, but I’m also genetically rare:
 - I was a boy soprano.
 - My voice didn’t break, so I can still sing in a female voice. If I were a singer, I’d be called a [countertenor](https://en.wikipedia.org/wiki/Countertenor).
 - I look (less than) half my age. I’m obviously not a teenager or student 🤣
+- My body clock is completely broken, so I have no sense of the days passing and my body aging.
