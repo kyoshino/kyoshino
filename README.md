@@ -21,6 +21,6 @@ I’m currently freelancing with clients in Canada, US, Australia, Japan and Ger
 Generalists are rare, but I’m also genetically rare:
 
 - I was a boy soprano.
-- My voice didn’t break, so I can still sing in a female voice. If I were a singer, I’d be called a [countertenor](https://en.wikipedia.org/wiki/Countertenor).
-- My body clock broke instead. I have no sense of time and aging.
-- Indeed, I look (less than) half my age. I’m obviously not a teenager or student 🤣
+- My voice didn’t break, so I can still sing naturally in a female voice. If I were a singer, I’d be called a [countertenor](https://en.wikipedia.org/wiki/Countertenor).
+- Instead, my [biological clock](https://en.wikipedia.org/wiki/Biological_clock) broke. I have no sense of day and night. And I stopped aging.
+- Indeed, I look (less than) half my age. I’m obviously not a teenager or a student 🤣
