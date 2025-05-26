@@ -1,6 +1,6 @@
 # Here comes the Unicorn (or Unicode) 🦄
 
-Hi there! I’m Kohei (pronounced co-hey), an **experienced, multitalented UX engineer** based in Toronto, Canada, who’s been surviving at the intersection of business, design and technology for 15+ years. I love getting my hands dirty to solve real-world problems, make things uncomplicated & modernized, and help people be more productive. 🌟
+Hi there! I’m Kohei (pronounced co-hey), an **experienced, multitalented UX engineer** based in Toronto, Canada, who’s been surviving at the intersection of business, design and technology for 20+ years. I love getting my hands dirty to solve real-world problems, make things uncomplicated & modernized, and help people be more productive. 🌟
 
 My work includes but not limited to competitive analysis, user interviews, surveys, A/B testing, UX/UI audit, information architecture, copywriting, prototyping, microinteractions, UX/UI design, product design, flyer/poster design, web design, frontend/backend web development, browser extension development, code refactoring, API design, DevOps, business development, partner relations, developer relations, marketing material design/development, press release writing/proofreading, technical and non-technical writing, ghostwriting, creative control, speaking engagements, magazine contributions, social media management, SEO, SEM, customer support and English-Japanese translation. 🔥
 
@@ -14,11 +14,11 @@ You can also find my previous projects, [BzDeck](https://github.com/bzdeck/bzdec
 
 ## Now available for hire!
 
-I’m currently freelancing with clients in Canada, US, Australia, Japan and Germany. If you’re launching a startup or running a small business, this kind of one-stop top talent (full-stack web developer + UX/UI designer + marketer + more) is sure to be helpful. Feel free to reach out to me via [email](mailto:kohei@britegrid.io) or [LinkedIn](https://www.linkedin.com/in/koheiyoshino/) today! 👋
+I’m currently freelancing with clients in Canada, US, Australia, Japan and Germany. If you’re launching a startup or running a small business, this kind of one-stop top talent (full-stack web developer + UX/UI designer + marketer + more) is sure to be helpful. Feel free to reach out to me via [email](mailto:kohei@britegrid.io), [Bluesky](https://bsky.app/profile/britegrid.io) or [LinkedIn](https://www.linkedin.com/in/koheiyoshino/) today! 👋
 
 ## Fun facts about me
 
-Generalists are rare, but I’m also genetically rare:
+Generalists are rare, but I’m also genetically super rare:
 
 - I was a boy soprano.
 - My voice didn’t break, so I can still sing naturally in a female voice. If I were a singer, I’d be called a [countertenor](https://en.wikipedia.org/wiki/Countertenor).
