@@ -26,4 +26,4 @@ Generalists are rare, but I’m also genetically extremely rare:
 - Indeed, I look (less than) half my age. I’m obviously not a teenager or a student 🤣
 - I can easily work at night and avoid jet lag because my circadian rhythm is lost forever.
 
-According to Gemini, the odds are one in 100 million. 🎰
+According to Gemini, the odds are one in 100 million, meaning fewer than 100 people in the world have the trait. 🎰
