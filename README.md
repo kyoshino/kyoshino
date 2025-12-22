@@ -6,7 +6,7 @@ My work includes but not limited to competitive analysis, user interviews, surve
 
 A little puzzled? Imagine a [ninja](https://en.wikipedia.org/wiki/Ninja) equipped with miscellaneous skills just slipped into the present. Well, you can just call me a **hyper-generalist**. 🥷
 
-When it comes to web development tech stack, I’m mainly experienced in React, AngularJS, Node.js, Perl, Python and PHP, but most of my projects these days are done with **Svelte**/**SvelteKit** because it saves a lot of time by simplifying the code. Have a look at my current public project, [Sveltia CMS](https://github.com/sveltia/sveltia-cms), which has gained traction quickly since its initial release. It’s a perfect showcase for my problem-solving superpower and the force of UX engineering. 💪
+When it comes to web development tech stack, I’m mainly experienced in React, AngularJS, Node.js, Perl, Python and PHP, but most of my projects these days are done with **Svelte**/**SvelteKit** because it saves a lot of time by simplifying the code. Have a look at my current public project, [Sveltia CMS](https://github.com/sveltia/sveltia-cms), which has been used by hundreds of individuals and organizations worldwide. It’s a perfect showcase for my problem-solving superpower and the force of UX engineering. 💪
 
 [![Sveltia CMS: Fast, Git-based, Headless, Modern UX, Mobile Support, I18n Support, Open Source](https://repository-images.githubusercontent.com/610335145/6c246dd0-f7e9-4201-a1ee-ffcd58191403)](https://github.com/sveltia/sveltia-cms)
 
@@ -20,8 +20,8 @@ I’m currently freelancing with clients in Canada, US, Australia, Japan and Ger
 
 Generalists are rare, but I’m also genetically extremely rare:
 
-- I was a boy soprano.
-- My voice didn’t break, so I can still sing naturally in a female voice. If I were a singer, I’d be called a [natural castrato](https://www.google.com/search?q="natural+castrato").
+- I was a boy soprano
+- My voice didn’t break, so I can still sing naturally in a female voice. If I were a singer, I’d be called a [natural castrato](https://www.google.com/search?q=%22natural+castrato%22).
 - Instead, my [biological clock](https://en.wikipedia.org/wiki/Biological_clock) broke. I lost sense of time and stopped aging.
 - Indeed, I look (less than) half my age. I’m obviously not a teenager or a student 🤣
 - I can easily work at night and avoid jet lag because my circadian rhythm is lost forever.
