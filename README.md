@@ -8,9 +8,9 @@ When it comes to web development tech stack, I’m mainly experienced in React, 
 
 Have a look at my current flagship project, [Sveltia CMS](https://github.com/sveltia/sveltia-cms), a modern, open source, Git-based headless CMS used by hundreds of individuals and organizations worldwide. It’s a perfect showcase for my problem-solving superpower and the force of UX engineering. 💪
 
-[![Sveltia CMS: Fast, Git-based, Headless, Modern UX, Mobile Support, I18n Support, Open Source](https://repository-images.githubusercontent.com/610335145/6c246dd0-f7e9-4201-a1ee-ffcd58191403)](https://github.com/sveltia/sveltia-cms)
-
 You can also find my previous projects, [BzDeck](https://github.com/bzdeck/bzdeck/wiki), [Bugzilla UX](https://twitter.com/BugzillaUX) and [Firefox Site Compatibility](https://github.com/fxsitecompat), as well as open source contributions to Mozilla [here](https://github.com/mozilla/bedrock/pulls?q=author:kyoshino) and [there](https://github.com/mozilla-bteam/bmo/pulls?q=author:kyoshino). I have had an on-and-off relationship with Mozilla, my former employer, since the early 2000s. 🦊
+
+[![Sveltia CMS: Fast, Git-based, Headless, Modern UX, Mobile Support, I18n Support, Open Source](https://repository-images.githubusercontent.com/610335145/6c246dd0-f7e9-4201-a1ee-ffcd58191403)](https://github.com/sveltia/sveltia-cms)
 
 ## Now available for hire!
 
