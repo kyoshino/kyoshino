@@ -2,9 +2,11 @@
 
 Hi there! I’m Kohei (pronounced co-hey), an **experienced, multitalented UX engineer** based in Toronto, Canada, who’s been surviving at the intersection of business, design and technology for 20+ years. I love getting my hands dirty to solve real-world problems, make things uncomplicated & modernized, and help people be more productive. 🌟
 
-My work spans the full spectrum: from research and design (UX/UI, IA, competitive analysis, poster design, web design) to development (frontend, backend, browser extensions, APIs) to communication (copywriting, technical writing, marketing, DevRel, English-Japanese translation). Think of me as a [ninja](https://en.wikipedia.org/wiki/Ninja) equipped with miscellaneous skills — or simply a **hyper-generalist**. 🥷
+My work spans the full spectrum: from research and design (UX/UI, IA, competitive analysis, web design, poster design) to development (frontend, backend, browser extensions, APIs) to communication (copywriting, technical writing, marketing, DevRel, English-Japanese translation). Think of me as a [ninja](https://en.wikipedia.org/wiki/Ninja) equipped with miscellaneous skills — or simply a **hyper-generalist**. 🥷
 
-When it comes to web development tech stack, I’m mainly experienced in React, AngularJS, Node.js, Perl, Python and PHP, but most of my projects these days are done with **Svelte**/**SvelteKit** because it saves a lot of time by simplifying the code. Have a look at my current public project, [Sveltia CMS](https://github.com/sveltia/sveltia-cms), which has been used by hundreds of individuals and organizations worldwide. It’s a perfect showcase for my problem-solving superpower and the force of UX engineering. 💪
+When it comes to web development tech stack, I’m mainly experienced in React, AngularJS, Node.js, Perl, Python and PHP, but most of my projects these days are done with **Svelte**/**SvelteKit**. 
+
+Have a look at my current flagship project, [Sveltia CMS](https://github.com/sveltia/sveltia-cms), a modern, open source, Git-based headless CMS used by hundreds of individuals and organizations worldwide. It’s a perfect showcase for my problem-solving superpower and the force of UX engineering. 💪
 
 [![Sveltia CMS: Fast, Git-based, Headless, Modern UX, Mobile Support, I18n Support, Open Source](https://repository-images.githubusercontent.com/610335145/6c246dd0-f7e9-4201-a1ee-ffcd58191403)](https://github.com/sveltia/sveltia-cms)
 
