@@ -2,7 +2,7 @@
 
 Hi there! I’m Kohei (pronounced co-hey), an **experienced, multitalented UX engineer** based in Toronto, Canada, who’s been surviving at the intersection of business, design and technology for 20+ years. I love getting my hands dirty to solve real-world problems, make things uncomplicated & modernized, and help people be more productive. 🌟
 
-My work spans the full spectrum: from research and design (UX/UI, prototyping, information architecture) to development (frontend/backend, APIs, DevOps) to communication (copywriting, technical writing, marketing, English-Japanese translation). Think of me as a [ninja](https://en.wikipedia.org/wiki/Ninja) equipped with miscellaneous skills — or simply a **hyper-generalist**. 🥷
+My work spans the full spectrum: from research and design (UX/UI, IA, competitive analysis, poster design, web design) to development (frontend, backend, browser extensions, APIs) to communication (copywriting, technical writing, marketing, DevRel, English-Japanese translation). Think of me as a [ninja](https://en.wikipedia.org/wiki/Ninja) equipped with miscellaneous skills — or simply a **hyper-generalist**. 🥷
 
 When it comes to web development tech stack, I’m mainly experienced in React, AngularJS, Node.js, Perl, Python and PHP, but most of my projects these days are done with **Svelte**/**SvelteKit** because it saves a lot of time by simplifying the code. Have a look at my current public project, [Sveltia CMS](https://github.com/sveltia/sveltia-cms), which has been used by hundreds of individuals and organizations worldwide. It’s a perfect showcase for my problem-solving superpower and the force of UX engineering. 💪
 
@@ -19,7 +19,7 @@ I’m currently freelancing with clients in Canada, US, Australia, Japan and Ger
 Generalists are rare, but I’m also genetically extremely rare:
 
 - I was a boy soprano.
-- My voice didn’t break, so I can still sing naturally in a mezzo-soprano voice. If I were a singer, I’d be called a [natural castrato](https://www.google.com/search?as_epq=natural+castrato).
+- My voice didn’t break, so I can still sing mezzo-soprano naturally. If I were a singer, I’d be called a [natural castrato](https://www.google.com/search?as_epq=natural+castrato).
 - Instead, my [biological clock](https://en.wikipedia.org/wiki/Biological_clock) broke. I lost sense of time and stopped aging.
 - Indeed, I look (less than) half my age. I’m obviously not a teenager or a student 🤣
 - I can easily work at night and avoid jet lag because my circadian rhythm is lost forever.
