@@ -22,6 +22,7 @@ Generalists are rare, but I’m also genetically extremely rare:
 
 - I was a boy soprano.
 - My voice didn’t break, so I can still sing mezzo-soprano naturally. If I were a singer, I’d be called a [natural castrato](https://www.google.com/search?as_epq=natural+castrato).
-- Instead, my [biological clock](https://en.wikipedia.org/wiki/Biological_clock) broke. I lost sense of time and stopped aging.
+- That said, my voice deepened, giving me a wide vocal range that extends as low as bass.
+- What’s broken is my [biological clock](https://en.wikipedia.org/wiki/Biological_clock). I lost sense of time and stopped aging.
 - Indeed, I look (less than) half my age. I’m obviously not a teenager or a student 🤣
 - I can easily work at night and avoid jet lag because my circadian rhythm is lost forever.
