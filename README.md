@@ -8,11 +8,11 @@ My work spans the full spectrum: from research and design (UX/UI, IA, competitiv
 
 ### My tech stack
 
-When it comes to web development tech stack, I’m mainly experienced in React, AngularJS, Node.js, Perl, Python and PHP, but most of my projects these days are done with **Svelte**/**SvelteKit**. 
+When it comes to web development tech stack, I’m mainly experienced in React, AngularJS, Node.js, Perl, Python and PHP. However, most of my projects these days are done with [Svelte](https://svelte.dev/)/SvelteKit for simplicity and performance. I prefer to write [TypeScript-flavoured JavaScript](https://www.typescriptlang.org/docs/handbook/intro-to-js-ts.html) for readability and maintainability.
 
 ### My projects
 
-Have a look at my current flagship project, [Sveltia CMS](https://github.com/sveltia/sveltia-cms), a modern, open source, Git-based headless CMS used by hundreds of individuals and organizations worldwide. It’s a perfect showcase for my problem-solving superpower and the force of UX engineering. 💪
+Have a look at my current flagship project, [Sveltia CMS](https://github.com/sveltia/sveltia-cms), a modern, open source, Git-based headless CMS that has addressed hundreds of issues from its predecessor project and is now used by hundreds of individuals and organizations worldwide. It’s a perfect showcase of my problem-solving superpower and the force of UX engineering. 💪
 
 You can also find my previous projects, [BzDeck](https://github.com/bzdeck/bzdeck/wiki), [Bugzilla UX](https://twitter.com/BugzillaUX) and [Firefox Site Compatibility](https://github.com/fxsitecompat), as well as open source contributions to Mozilla [here](https://github.com/mozilla/bedrock/pulls?q=author:kyoshino) and [there](https://github.com/mozilla-bteam/bmo/pulls?q=author:kyoshino). I have had an on-and-off relationship with Mozilla, my former employer, since the early 2000s. 🦊
 
@@ -26,14 +26,14 @@ I’m currently freelancing with clients in Canada, US, Australia, Japan and Ger
 
 Generalists are rare, but I’m also genetically exceedingly rare:
 
-### Unbroken voice
-
-- I was a boy soprano.
-- My voice didn’t break, so I can still sing mezzo-soprano naturally. If I were a singer, I’d be called a [natural castrato](https://www.google.com/search?as_epq=natural+castrato).
-- That said, my voice deepened, giving me a wide vocal range that spans from bass to soprano, plus an anime voice.
-
 ### Broken biological clock
 
 - I lost sense of time and stopped aging more than 20 years ago.
 - Indeed, I look (less than) half my age. I’m obviously not a teenager or a student 🤣
 - I can easily work at night and avoid jet lag because my circadian rhythm is lost forever.
+
+### Unbroken voice
+
+- I was a boy soprano.
+- My voice didn’t break, so I can still sing mezzo-soprano naturally. If I were a singer, I’d be called a [natural castrato](https://www.google.com/search?as_epq=natural+castrato).
+- That said, my voice deepened, giving me a wide vocal range that spans from bass to soprano, plus an anime voice.
