@@ -2,9 +2,15 @@
 
 Hi there! I’m Kohei (pronounced co-hey), an **experienced, multitalented UX engineer** based in Toronto, Canada, who’s been surviving at the intersection of business, design and technology for 20+ years. I love getting my hands dirty to solve real-world problems, make things uncomplicated & modernized, and help people be more productive. 🌟
 
+### What I do
+
 My work spans the full spectrum: from research and design (UX/UI, IA, competitive analysis, web design, poster design) to development (frontend, backend, browser extensions, APIs) to communication (copywriting, technical writing, marketing, DevRel, English-Japanese translation). Think of me as a [ninja](https://en.wikipedia.org/wiki/Ninja) equipped with miscellaneous skills — or simply a **hyper-generalist**. 🥷
 
+### My tech stack
+
 When it comes to web development tech stack, I’m mainly experienced in React, AngularJS, Node.js, Perl, Python and PHP, but most of my projects these days are done with **Svelte**/**SvelteKit**. 
+
+### My projects
 
 Have a look at my current flagship project, [Sveltia CMS](https://github.com/sveltia/sveltia-cms), a modern, open source, Git-based headless CMS used by hundreds of individuals and organizations worldwide. It’s a perfect showcase for my problem-solving superpower and the force of UX engineering. 💪
 
@@ -28,6 +34,6 @@ Generalists are rare, but I’m also genetically extremely rare:
 
 ### Broken biological clock
 
-- I lost sense of time and stopped aging.
+- I lost sense of time and stopped aging more than 20 years ago.
 - Indeed, I look (less than) half my age. I’m obviously not a teenager or a student 🤣
 - I can easily work at night and avoid jet lag because my circadian rhythm is lost forever.
