@@ -24,7 +24,7 @@ I’m currently freelancing with clients in Canada, US, Australia, Japan and Ger
 
 ## Fun facts about me
 
-Generalists are rare, but I’m also genetically extremely rare:
+Generalists are rare, but I’m also genetically exceedingly rare:
 
 ### Unbroken voice
 
