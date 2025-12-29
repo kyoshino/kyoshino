@@ -8,7 +8,7 @@ My work spans the full spectrum: from research and design (UX/UI, IA, competitiv
 
 ### My tech stack
 
-When it comes to web development tech stack, I’m mainly experienced in React, AngularJS, Node.js, Perl, Python and PHP. However, most of my projects these days are done with [Svelte](https://svelte.dev/)/SvelteKit for simplicity and performance. I prefer to write [TypeScript-flavoured JavaScript](https://www.typescriptlang.org/docs/handbook/intro-to-js-ts.html) for readability and maintainability.
+When it comes to web development tech stack, I’m mainly experienced in React, AngularJS, Node.js, Perl, Python and PHP. However, most of my projects these days are done with [Svelte](https://svelte.dev/) and SvelteKit for simplicity and performance. I prefer to write [TypeScript-flavoured JavaScript](https://www.typescriptlang.org/docs/handbook/intro-to-js-ts.html) for readability and maintainability.
 
 ### My projects
 
@@ -29,11 +29,11 @@ Generalists are rare, but I’m also genetically exceedingly rare:
 ### Broken biological clock
 
 - I lost sense of time and stopped aging more than 20 years ago.
-- Indeed, I look (less than) half my age. I’m obviously not a teenager or a student 🤣
+- Now I look (less than) half my age. I’m obviously not a teenager or a student 🤣
 - I can easily work at night and avoid jet lag because my circadian rhythm is lost forever.
 
 ### Unbroken voice
 
-- I was a boy soprano.
+- I was a boy (mezzo-)soprano.
 - My voice didn’t break, so I can still sing mezzo-soprano naturally. If I were a singer, I’d be called a [natural castrato](https://www.google.com/search?as_epq=natural+castrato).
 - That said, my voice deepened, giving me a wide vocal range that spans from bass to soprano, plus an anime voice.
