@@ -35,5 +35,5 @@ Generalists are rare, but I’m also genetically exceedingly rare:
 ### Unbroken voice
 
 - I was a boy soprano.
-- My voice didn’t break, so I can still sing mezzo-soprano naturally. If I were a singer, I’d be called a [natural castrato](https://www.google.com/search?as_epq=natural+castrato) — only a handful people in the world have this condition.
+- My voice didn’t break, so I can still sing mezzo-soprano naturally. If I were a singer, I’d be called a [natural castrato](https://www.google.com/search?as_epq=natural+castrato) — only a few professional singers in the world have this condition.
 - That said, my voice deepened, giving me a wide vocal range that spans from bass to soprano, plus an anime voice.
