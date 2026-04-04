@@ -24,12 +24,12 @@ I’m currently freelancing with clients in Canada, US, Australia, Japan and Ger
 
 ## Fun facts about me
 
-Generalists are rare, but I’m also genetically exceedingly rare:
+Generalists are rare, but I’m also genetically exceedingly rare. Perhaps I’m the only person on the planet with these traits:
 
 ### Broken biological clock
 
 - I lost sense of time and stopped aging more than 20 years ago.
-- Now I look (less than) half my age. I’m obviously not a teenager or a student 🤣
+- Now I look (less than) half my age. People often mistake me for a student, but I’m in my mid-40s 🤣
 - I can easily work at night and avoid jet lag because my circadian rhythm is lost forever.
 
 ### Unbroken voice
