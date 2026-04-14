@@ -12,7 +12,7 @@ When it comes to web development tech stack, I’m mainly experienced in React, 
 
 ### My projects
 
-Have a look at my current flagship project, [Sveltia CMS](https://sveltiacms.app/en/), a modern, open source, Git-based headless CMS. It has addressed hundreds of issues from its predecessor project and is now used by hundreds of websites [worldwide](https://sveltiacms.app/en/showcase), including a U.S. government agency. It’s a perfect showcase of my problem-solving superpower and the force of UX engineering. 💪
+Take a look at my current flagship project, [Sveltia CMS](https://sveltiacms.app/en/), a popular, open source, Git-based headless CMS. It has numerous improvements over its predecessor and is now used by hundreds of websites [worldwide](https://sveltiacms.app/en/showcase), including a U.S. government agency. Sveltia CMS is the perfect showcase of my problem-solving superpower and the force of UX engineering. 💪
 
 You can also find my previous projects, [BzDeck](https://github.com/bzdeck/bzdeck/wiki), [FlareTail.js](https://github.com/flaretailjs/flaretail.js), [Bugzilla UX](https://twitter.com/BugzillaUX) and [Firefox Site Compatibility](https://github.com/fxsitecompat), as well as open source contributions to Mozilla [here](https://github.com/mozilla/bedrock/pulls?q=author:kyoshino) and [there](https://github.com/mozilla-bteam/bmo/pulls?q=author:kyoshino). I have had an on-and-off relationship with Mozilla, my former employer, since the early 2000s. 🦊
 
@@ -20,7 +20,7 @@ You can also find my previous projects, [BzDeck](https://github.com/bzdeck/bzdec
 
 ## Now available for hire!
 
-I’m currently freelancing with clients in Canada, US, Australia, Japan and Germany. If you’re launching a startup or running a small business, this kind of one-stop top talent (full-stack web developer + UX/UI designer + marketer + more) is sure to be helpful. Feel free to reach out to me via [email](mailto:kohei@britegrid.io), [Bluesky](https://bsky.app/profile/britegrid.io) or [LinkedIn](https://www.linkedin.com/in/koheiyoshino/) today! 👋
+I have worked with clients in Canada, U.S., Australia, Japan and Germany as a freelancer. If you’re launching a startup or running a small business, this kind of one-stop top talent (full-stack web developer + UX/UI designer + marketer + more) is sure to be helpful. Feel free to reach out to me via [email](mailto:kohei@britegrid.io), [Bluesky](https://bsky.app/profile/britegrid.io) or [LinkedIn](https://www.linkedin.com/in/koheiyoshino/) today! 👋
 
 ## Fun facts about me
 
