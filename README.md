@@ -30,10 +30,12 @@ Generalists are rare, but I’m also genetically exceedingly rare. Perhaps I’m
 
 - I lost sense of time and stopped aging more than 20 years ago.
 - Now I look (less than) half my age. People often mistake me for a student, but I’m in my mid-40s 🤣
-- I can easily work at night and avoid jet lag because my circadian rhythm is lost forever.
+- Because my circadian rhythm is lost, I can easily work at night and avoid jet lag or sleep disruption due to daylight saving time.
+- Perhaps one day aging researchers will figure out why I don’t age at all!
 
 ### Unbroken voice
 
 - I was a boy soprano.
 - My voice didn’t break, so I can still sing mezzo-soprano naturally. If I were a singer, I’d be called a [natural castrato](https://www.google.com/search?as_epq=natural+castrato) — only a handful of professional singers in the world are known to have this condition.
 - That said, my voice deepened, giving me a wide vocal range that spans from bass to soprano.
+- Perhaps one day I’ll make my debut as an opera singer!
