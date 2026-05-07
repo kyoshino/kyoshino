@@ -28,7 +28,7 @@ Generalists are rare, but I’m also genetically exceedingly rare. Perhaps I’m
 
 ### Broken biological clock
 
-- I lost sense of time and stopped aging over 25 years ago.
+- I lost sense of time and stopped aging around 25 years ago.
 - Now I look less than half my age. People often mistake me for a student, or even a teenager, but I’m actually in my mid-40s 🤣
 - Because my circadian rhythm is lost, I can easily work at night and avoid jet lag or sleep disruption due to daylight saving time. These days, I hit the gym at 3 a.m.
 
