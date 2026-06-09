@@ -18,6 +18,10 @@ You can also find my previous projects, [BzDeck](https://github.com/bzdeck/bzdec
 
 [![Sveltia CMS: Fast, Git-based, Headless, Modern UX, Mobile Support, I18n Support, Open Source](https://repository-images.githubusercontent.com/610335145/6c246dd0-f7e9-4201-a1ee-ffcd58191403)](https://sveltiacms.app/en/)
 
+## Sponsor me
+
+If you like my work and want to support me, please consider sponsoring me via [GitHub Sponsors](https://github.com/sponsors/kyoshino). Your sponsorship will help me continue to create and maintain open source projects, and contribute to the community. Thank you for your support! 🙏
+
 ## Now available for hire!
 
 I have worked with clients in Canada, U.S., Australia, Japan and Germany as a freelancer. If you’re launching a startup or running a small business, this kind of one-stop top talent (full-stack web developer + UX/UI designer + marketer + more) is sure to be helpful. Feel free to reach out to me via [email](mailto:kohei@britegrid.io), [Bluesky](https://bsky.app/profile/britegrid.io) or [LinkedIn](https://www.linkedin.com/in/koheiyoshino/) today! 👋
