@@ -12,7 +12,7 @@ When it comes to web development tech stack, I’m mainly experienced in React, 
 
 ### My projects
 
-Take a look at my current flagship project, [Sveltia CMS](https://sveltiacms.app/en/), a popular, open source, Git-based headless CMS. It has numerous improvements over its predecessor and is now used by hundreds of websites [worldwide](https://sveltiacms.app/en/showcase), including a U.S. government agency. Sveltia CMS is the perfect showcase of my problem-solving superpower and the force of UX engineering. 💪
+Take a look at my current flagship project, [Sveltia CMS](https://sveltiacms.app/en/), a popular, open source, Git-based headless CMS. It has numerous improvements over its predecessor and is now used by thousands of websites [worldwide](https://sveltiacms.app/en/showcase), including a U.S. government agency. Sveltia CMS is the perfect showcase of my problem-solving superpower and the force of UX engineering. 💪
 
 You can also find my previous projects, [BzDeck](https://github.com/bzdeck/bzdeck/wiki), [FlareTail.js](https://github.com/flaretailjs/flaretail.js), [Bugzilla UX](https://twitter.com/BugzillaUX) and [Firefox Site Compatibility](https://github.com/fxsitecompat), as well as open source contributions to Mozilla [here](https://github.com/mozilla/bedrock/pulls?q=author:kyoshino) and [there](https://github.com/mozilla-bteam/bmo/pulls?q=author:kyoshino). I have had an on-and-off relationship with Mozilla, my former employer, since the early 2000s. 🦊
 
@@ -34,7 +34,7 @@ Generalists are rare, but I’m also genetically exceedingly rare. Perhaps I’m
 
 - I lost sense of time and stopped aging around 25 years ago.
 - Now I look less than half my age. People often mistake me for a student, or even a teenager, but I’m actually in my mid-40s 🤣
-- Because my circadian rhythm is lost, I can easily work at night and avoid jet lag or sleep disruption due to daylight saving time. These days, I hit the gym at 3 a.m.
+- Because my circadian rhythm is lost, I can easily work at night and avoid jet lag or sleep disruption due to daylight saving time. These days, I hit the gym at 4 a.m.
 
 ### Unbroken voice
 
